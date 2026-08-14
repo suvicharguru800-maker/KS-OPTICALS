@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "app.vercel.ks_opticals.twa",
+    "sha256_cert_fingerprints": ["DD:DC:E3:03:B8:F4:FE:7B:10:1F:56:9A:A4:08:F1:08:76:54:3E:25:C6:2D:FB:11:51:EC:CA:11:7D:72:E6:9C"]
+  }
+}]
